@@ -21,20 +21,22 @@ Animacje pomagają wyeksponować zmiany i zilustrować postęp. Dla przykładu, 
 #### Prawdomówność (Truthful)
 
 1. Cairo, A. (2015). Graphics lies, misleading visuals. In *New challenges for data design* (pp. 103-116). Springer, London. https://faculty.ucmerced.edu/jvevea/classes/Spark/readings/Cairo2015_Chapter_GraphicsLiesMisleadingVisuals.pdf 
+2. Wizualizacje, które nie mają sensu https://viz.wtf
+3. Grupa "Analityk płakał jak raportował" https://www.facebook.com/analitykplakal/ 
 
 #### Funkcjonalność (Functional)
 
-2. Wykresy Unplugged https://betaandbit.github.io/WykresyUnplugged/ 
+4. Wykresy Unplugged https://betaandbit.github.io/WykresyUnplugged/ 
 
 #### Piękno (Beautiful)
 
-3. Seria "Data Looks Better Naked" https://www.darkhorseanalytics.com/remove-to-improve 
+5. Seria "Data Looks Better Naked" https://www.darkhorseanalytics.com/remove-to-improve 
 
-4. Bateman, S., Mandryk, R. L., Gutwin, C., Genest, A., McDine, D., & Brooks, C. (2010, April). [Useful junk? The effects of visual embellishment on comprehension and memorability of charts.](https://www.researchgate.net/publication/221517808_Useful_Junk_The_effects_of_visual_embellishment_on_comprehension_and_memorability_of_charts ) In *Proceedings of the SIGCHI conference on human factors in computing systems* (pp. 2573-2582).  
+6. Bateman, S., Mandryk, R. L., Gutwin, C., Genest, A., McDine, D., & Brooks, C. (2010, April). [Useful junk? The effects of visual embellishment on comprehension and memorability of charts.](https://www.researchgate.net/publication/221517808_Useful_Junk_The_effects_of_visual_embellishment_on_comprehension_and_memorability_of_charts ) In *Proceedings of the SIGCHI conference on human factors in computing systems* (pp. 2573-2582).  
 
 #### Wnikliwość (Insightful)
 
-#### Oświecenie (Englightening)
+#### Olśnienie (Englightening)
 
 ### Biblioteki
 
