@@ -1,8 +1,10 @@
 # Wykład 2 - Wizualizacje
 
-## Slajdy z wykładu
+[Slajdy z wykładu](wyklad2.pdf)
 
-[Wykład 2](wyklad2.pdf)
+[Notebook z wykresami w matplotlib, seaborn i plotly](Wyklad2.ipynb)
+
+
 
 ## Materiały uzupełniające
 
